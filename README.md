@@ -1,5 +1,5 @@
 # Computabilidad y Algoritmia
-Prácticas Computabilidad y Algoritmia (CyA, ULL)
+Prácticas Computabilidad y Algoritmia (CyA, ULL) :white_check_mark:
 
 ### Módulo I
 
